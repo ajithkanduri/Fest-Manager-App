@@ -129,4 +129,25 @@ Besides that, there are City Buses having numbers 211S, 211A, 211C, 211D, 211E, 
         <item>9000456353</item>
         <item>8209589297</item>
     </string-array>
+    <string-array name="placeName">
+        <item>Main Gate</item>
+        <item>Bus Stop</item>
+        <item>Cafetaria</item>
+        <item>Auditorium</item>
+        <item>Stage 1</item>
+        <item>Stage 2</item>
+        <item>Connaught Place</item>
+        <item>SBI</item>
+        <item>Euro Cafe</item>
+        <item>More Shopping mall</item>
+        <item>Mess 1</item>
+        <item>Mess 2</item>
+        <item>Rock Garden</item>
+        <item>F-Block</item>
+        <item>Student Activity Center</item>
+        <item>G-Block</item>
+        <item>B-Block</item>
+        <item>D-Block</item>
+        <item>Library</item>
+    </string-array>
 </resources>
